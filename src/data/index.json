@@ -1,0 +1,77 @@
+{
+  "skills": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "Front-End",
+      "description": ""
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "Back-End",
+      "description": ""
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "UI & UX Design",
+      "description": ""
+    },
+    {
+      "id": "4",
+      "src": "",
+      "title": "",
+      "description": ""
+    }
+  ],
+  "portfolio": [
+    {
+      "id": "1",
+      "src": "",
+      "title": "",
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "2",
+      "src": "",
+      "title": "",
+      "description": "",
+      "link": ""
+    },
+    {
+      "id": "3",
+      "src": "",
+      "title": "",
+      "description": "",
+      "link": ""
+    }
+  ],
+  "testimonial": [
+    {
+      "id": "1",
+      "count": "5",
+      "src": "",
+      "description": "",
+      "author_name": "",
+      "author_designation": ""
+    },
+    {
+      "id": "2",
+      "count": "5",
+      "src": "",
+      "description": "",
+      "author_name": "",
+      "author_designation": ""
+    },
+    {
+      "id": "3",
+      "count": "5",
+      "src": "",
+      "description": "",
+      "author_name": "",
+      "author_designation": ""
+    }
+  ]
+}
